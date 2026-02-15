@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/controlpanel.tsx","./src/components/motherboardview.tsx","./src/simulation/graphconfig.ts","./src/simulation/usesimulationengine.ts"],"version":"5.9.3"}
